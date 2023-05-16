@@ -44,7 +44,7 @@ const Publicheader = () =>{
                 <div className="container">
                     <div className="row">
                         <div className="col-xxl-6 col-xl-6 col-lg-6  col-md-6 col-sm-6 col-6">
-                            <i className="fa fa-headset"></i> +91-8884166608
+                            <i className="fa fa-headset"></i> +91-9999999999
                         </div>
                         <div className="col-xxl-6 col-xl-6 col-lg-6  col-md-6 col-sm-6 col-6 text-end">
                                 <i className="fab fa-facebook "></i>
@@ -60,7 +60,7 @@ const Publicheader = () =>{
             <nav className="navbar navbar-expand-md navbar-dark sticky-top bg-dark p-3">
                 <div className="container-fluid">
                     <a className="navbar-brand" href="#">
-                        <i className="fa fa-search fa-lg"></i> Billing Software
+                    <i class="fa-solid fa-indian-rupee-sign"></i> Billing Software Soultions
                     </a>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>

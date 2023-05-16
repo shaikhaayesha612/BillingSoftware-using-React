@@ -6,18 +6,18 @@ const Footer = () =>{
                 <div className="row">
                     <div className="col-lg-4">
                         <h4> About Us </h4>
-                        <p>
-                            dfg dfg dfg dfg fg dfg dfgdfg dfg dfg dfg dfgdfg dfg dfg dfgd fgdfg dfg dfg df
-                            dfg dfg dfg dfg fg dfg dfgdfg dfg dfg dfg dfgdfg dfg dfg dfgd fgdfg dfg dfg df
-                            dfg dfg dfg dfg fg dfg dfgdfg dfg dfg dfg dfgdfg dfg dfg dfgd fgdfg dfg dfg df
-                        </p>
+                        <img src="https://d1nxzqpcg2bym0.cloudfront.net/google_play/restaurant.billing.system/5b12f8cc-1b43-11e5-8915-49b6b1b8f2a7/128x128"
+                                  height="100" width="40%"/>
+                        <h5 className="mt-2"> Billing Software Solutions </h5>
+                        <h6> Billing & Invoicing </h6>
                     </div>
                     <div className="col-lg-4">
                         <h4> Office Address </h4>
-                        <p> Firstenquiry Digital Media </p>
-                        <p> #123, ORR, Marathahalli </p>
-                        <p> Bangalore 560037 </p>
-                        <p> Contact - 8884166608 </p>
+                        <p> Billing Software Solutions </p>
+                        <p> #123, Billing Software Solutions, </p>
+                        <p> Mantri Square Park, </p>
+                        <p> Bengaluru, Karnataka. </p>
+                        <p> Contact: 9999999999</p>
                     </div>
                     <div className="col-lg-4">
                         <h4> In Social Media </h4>
